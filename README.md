@@ -2,7 +2,7 @@
  
 1. 수행기간 : 2023년 1월부터 2월
 1. 수행기관 : 알파코 딥러닝 부트캠프
-1. 사용 기술 - 웹 : 플라스크 // 딥러닝 : CNN
+1. 사용 기술    웹 : 플라스크 // 딥러닝 : CNN
 1. 데이터 : MNIST(0~9의 숫자 이미지) train 6만장, test 3만장 
 1. 결과 이미지 : output.jpg
 1. 전체 설계도 : architecture.jpg
@@ -15,3 +15,6 @@
 
 ### architecture
 ![architecture](https://github.com/2wnstjq2/alpaco0304/assets/57422050/f7a5deea-c79d-41ec-b80a-f70cd4c330fb)
+
+
+<img src='architecture.jpg' widht='100' height='200'>
